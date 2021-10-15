@@ -1,0 +1,5 @@
+C:\Users\Mono Otaku\Desktop\nightmare_realm\Nightmare_Realm.exe
+C:\Users\Mono Otaku\Desktop\nightmare_realm\Nightmare_Realm.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\Nightmare_Realm.deps.json
+C:\Users\Mono Otaku\Desktop\nightmare_realm\Nightmare_Realm.runtimeconfig.json
+C:\Users\Mono Otaku\Desktop\nightmare_realm\Nightmare_Realm.pdb

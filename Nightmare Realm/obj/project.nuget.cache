@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dUwXnMB4mapcDRt9q7n8w73pYaL3py4w6N3f7YNNmK9k5WKmMH4o3jZva4UDPMqYMelCNAsAgjMCFKqZoRk4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mono Otaku\\source\\repos\\Nightmare Realm\\Nightmare_Realm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mono Otaku\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mono Otaku\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mono Otaku\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

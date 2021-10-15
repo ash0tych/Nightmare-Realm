@@ -1,0 +1,11 @@
+C:\Users\Mono Otaku\Desktop\nightmare_realm\Nightmare_Realm.pdb
+C:\Users\Mono Otaku\Desktop\nightmare_realm\clrcompression.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\clrjit.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\coreclr.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\mscordaccore.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\D3DCompiler_47_cor3.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\PenImc_cor3.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\PresentationNative_cor3.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\vcruntime140_cor3.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\wpfgfx_cor3.dll
+C:\Users\Mono Otaku\Desktop\nightmare_realm\Nightmare_Realm.exe
