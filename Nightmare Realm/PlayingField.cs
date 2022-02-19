@@ -18,7 +18,7 @@ namespace Nightmare_Realm
         {
             field = new Square[5,5];
             last_click = new int[2];
-            was_clicked = false;
+            was_clicked = true;
         }
      
         public void FillField()
@@ -33,7 +33,7 @@ namespace Nightmare_Realm
             field[1, 1] = new EmptySquare();
             field[1, 3] = new EmptySquare();
             field[3, 1] = new EmptySquare();
-            field[3, 3] = new EmptySquare();
+            field[3, 9] = new EmptySquare();
 
             string[] temp = randomPermutation();
 
