@@ -111,6 +111,9 @@ namespace Nightmare_Realm
             Type(type);
             Img(Image.FromFile(@"Assets\" + type + ".png"));
         }
-        ~GameSquare() { }
+        ~GameSquare() { 
+            img = null;
+        }
     }
 }
+
